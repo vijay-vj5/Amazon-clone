@@ -1,7 +1,7 @@
 
 # Amazon - Clone using ReactJs
 
-**Project Link** - ***https://alanbinu-ecommerce.web.app/***
+**Project Link** - ***https://vj-amazon-clone.netlify.app/***
 
 ## Tech We Used
 
@@ -26,7 +26,7 @@
 #### Run the following commands
 ```
 npm i
-npm run start
+npm start
 ```
 
 
